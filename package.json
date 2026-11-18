@@ -99,6 +99,7 @@
   ],
   "snyk": true,
   "overrides": {
+    "async": "2.6.4",
     "ansi-regex": "3.0.1"
   }
 }
