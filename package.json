@@ -99,6 +99,7 @@
   ],
   "snyk": true,
   "overrides": {
+    "ws": "7.5.11",
     "underscore": "1.13.8",
     "socket.io-parser": "3.3.6",
     "snyk-php-plugin": "1.10.0",
