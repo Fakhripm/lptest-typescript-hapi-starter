@@ -99,6 +99,7 @@
   ],
   "snyk": true,
   "overrides": {
+    "socket.io-parser": "3.3.6",
     "snyk-php-plugin": "1.10.0",
     "snyk-go-plugin": "1.19.1",
     "semver": "5.7.2",
