@@ -97,5 +97,8 @@
     "typescript",
     "swagger"
   ],
-  "snyk": true
+  "snyk": true,
+  "overrides": {
+    "ansi-regex": "3.0.1"
+  }
 }
