@@ -99,6 +99,7 @@
   ],
   "snyk": true,
   "overrides": {
+    "semver": "5.7.2",
     "netmask": "1.1.0",
     "minimist": "1.2.6",
     "minimatch": "3.1.4",
