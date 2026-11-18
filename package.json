@@ -99,6 +99,7 @@
   ],
   "snyk": true,
   "overrides": {
+    "snyk-go-plugin": "1.19.1",
     "semver": "5.7.2",
     "netmask": "1.1.0",
     "minimist": "1.2.6",
